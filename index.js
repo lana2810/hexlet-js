@@ -1,1 +1,3 @@
-console.log(" УРА!!! У меня получилось3 ну или не получилось");
+import _ from "lodash";
+console.log("ну или не получилось");
+_.capitalize("hello");
